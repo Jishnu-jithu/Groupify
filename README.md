@@ -1,7 +1,7 @@
 <h1 align="center">Groupify - Outliner Organizer</h1>
 
 <p align="center">
-  <img src="https://github.com/Jishnu-jithu/Groupify/assets/145359279/3fb3f20e-2b50-41b9-aac1-dc0786d846fa">
+  <img src="https://github.com/Jishnu-jithu/Groupify/assets/145359279/3790daee-161d-423e-aed5-610b00314e5b">
 </p>
 
 <p align="center">
